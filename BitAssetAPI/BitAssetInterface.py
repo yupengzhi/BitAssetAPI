@@ -9,8 +9,8 @@ from BitAssetAPI import BitAssetMarketAPI,BitAssetDealsAPI
 #APIKEY = 'ak7b68c889d04045e5'
 #SECRETKEY = 'b44f7c6a6ef44d9c84d7b4da2e02c8a1'
 #RESTURL = 'http://api.bitasset.com'
-APIKEY='ak178f82404a714188'
-SECRETKEY='1ce9a832919d403a839ff4293cea10d8'
+APIKEY=''
+SECRETKEY=''
 RESTURL = 'http://tapi.bitasset.cc:7005/'
 
 marketApi = BitAssetMarketAPI(RESTURL, APIKEY, SECRETKEY)
