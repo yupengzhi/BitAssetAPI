@@ -1,2 +1,2 @@
-# OKEXAPI
-Rebuild the example codes of OKEX API
+# BitAssetAPI
+Example codes of BitAsset API
